@@ -3,7 +3,10 @@ RENCANA KONTEN WPN
 - Javascript
   * ES6
   * Framework Javascript
+    ^vue
   * Struktur Data Dasar
 - PHP Frameworks
+    ^Laravel
 - Interview
 - Vlogs
+- Phyton
