@@ -5,6 +5,7 @@ RENCANA KONTEN WPN
   * Framework Javascript
     ^vue
     ^React
+    ^Angular
   * Struktur Data Dasar
 - PHP Frameworks
     ^Laravel
